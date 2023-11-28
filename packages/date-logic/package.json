@@ -1,11 +1,11 @@
 {
   "name": "@alexcuba/date-logic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package that returns the current date",
   "main": "index.js",
   "repository": "https://github.com/alexcuba/monorepo",
   "publishConfig": {
-     "@alexcuba:registry": "https://npm.pkg.github.com/alexcuba"
+    "@alexcuba:registry": "https://npm.pkg.github.com/alexcuba"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
